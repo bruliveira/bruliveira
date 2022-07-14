@@ -13,9 +13,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 
-
-  <img align="right" alt="bruna" height="150" style="border-radius:50px;" src="https://mmedia.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+<a href="/"><img src="https://i.picasion.com/pic92/18ae5dc27b190a8fc097314689c5dd48.gif" height="150" border="0" align="right" alt="bruna" style="border-radius:50px;"/> </a><br/>
 
   ##
 

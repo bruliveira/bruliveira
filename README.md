@@ -10,9 +10,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<div>
-<a href="/"><img src="https://i.picasion.com/pic92/18ae5dc27b190a8fc097314689c5dd48.gif" height="150" border="0" align="right" alt="bruna" style="border-radius:50px;"/> </a><br/>
-</div>
+
 
   ##
   

@@ -1,29 +1,77 @@
-### Hello, me chamo Bruna Oliveira 👋
-- Estudante de Ciência da Computação 💻👩‍💻
+
+
+<h1 align="center">Hello, i'm Bruna Oliveira 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F8F8F2&center=true&vCenter=true&width=500&lines=Desenvolvedora+FullStack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o"
+      alt="Desenvolvedora FullStack e Estudante de Ciência da Computação"
+    />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <a href="https://github.com/bruliveira">
-   <!-- 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=bruliveira&show_icons=true&hide_border=false&theme=dracula&count_private=true&include_all_commits=true)
-  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruliveira&show_icons=true&hide_border=false&theme=dracula&count_private=true&include_all_commits=true&layout=compact)
-  -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruliveira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruna-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bruna-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bruna-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bruna-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <table>
+    <tr>
+      <td valign="top">
+        <img
+          height="130"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=120"
+          alt="Estatísticas do GitHub"
+        />
+      </td>
+      <td valign="top">
+        <img
+          height="130"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruliveira&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=270"
+          alt="Linguagens mais usadas"
+        />
+      </td>
+      <td valign="top">
+        <img
+          height="130"
+          src="https://streak-stats.demolab.com/?user=bruliveira&theme=dracula&hide_border=true&card_width=480"
+          alt="Sequência de contribuições"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div> 
-  <a href="https://www.instagram.com/brunah_flaviah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunaflaviaaoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-oliveira-7891b519b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="40" width="40"/>
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruna-oliveira-7891b519b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brunaflaviaaoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/brunah_flaviah/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>

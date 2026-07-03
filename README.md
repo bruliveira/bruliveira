@@ -1,4 +1,11 @@
-
+<p align="center">
+  <img
+    src="./assets/f1.png"
+    alt="Bruna"
+    width="200"
+    style="border-radius: 50%; border: 3px solid #4da6ff;"
+  />
+</p>
 
 <h1 align="center">Hello, i'm Bruna Oliveira 👋</h1>
 

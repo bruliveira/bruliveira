@@ -21,12 +21,31 @@
 ---
 
 <div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/bruliveira/bruliveira/output/pacman-contribution-graph-dark.svg"
-    alt="Pac-Man Contribution Graph"
-  />
-
+  <table>
+    <tr>
+      <td valign="top">
+        <img
+          height="130"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=120"
+          alt="Estatísticas do GitHub"
+        />
+      </td>
+      <td valign="top">
+        <img
+          height="130"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruliveira&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=270"
+          alt="Linguagens mais usadas"
+        />
+      </td>
+      <td valign="top">
+        <img
+          height="130"
+          src="https://streak-stats.demolab.com/?user=bruliveira&theme=dracula&hide_border=true&card_width=480"
+          alt="Sequência de contribuições"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -34,15 +53,15 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="40" width="40"/>

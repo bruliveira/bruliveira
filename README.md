@@ -21,31 +21,12 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img
-          height="130"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=120"
-          alt="Estatísticas do GitHub"
-        />
-      </td>
-      <td valign="top">
-        <img
-          height="130"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruliveira&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=270"
-          alt="Linguagens mais usadas"
-        />
-      </td>
-      <td valign="top">
-        <img
-          height="130"
-          src="https://streak-stats.demolab.com/?user=bruliveira&theme=dracula&hide_border=true&card_width=480"
-          alt="Sequência de contribuições"
-        />
-      </td>
-    </tr>
-  </table>
+
+  <img
+    src="https://raw.githubusercontent.com/bruliveira/bruliveira/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man Contribution Graph"
+  />
+
 </div>
 
 ---

@@ -21,17 +21,18 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img
-          height="130"
-          src="https://streak-stats.demolab.com/?user=bruliveira&theme=dracula&hide_border=true&card_width=480"
-          alt="Sequência de contribuições"
-        />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=bruliveira&show_icons=true&theme=dracula&hide_border=true"
+      alt="Estatísticas do GitHub"
+      height="180"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=bruliveira&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+      alt="Linguagens mais utilizadas"
+      height="180"
+    />
+  </p>
 </div>
 
 ---
